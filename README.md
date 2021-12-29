@@ -1,6 +1,4 @@
-## Visualisation of Famous Algorithms.
 
-<img src="https://i.ibb.co/y86B7Wk/main-prj.png" />
 
 # How to run this project ?
 
